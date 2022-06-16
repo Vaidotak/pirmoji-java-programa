@@ -16,7 +16,7 @@ public class Main {
         System.out.println(s.substring(12));
         System.out.println(s.substring(0, 4));
 
-
+        //3 paskaita
         Figura figura = new Figura();
         figura.setPavadinimas("Kvadratas");
         figura.setPlotis(20);
